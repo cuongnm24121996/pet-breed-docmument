@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-06-27T17:07:59.810Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="tTrcrY6JYWZR_aXBPSPG" version="14.8.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-27T17:12:53.964Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="B-KAfI16Cg9qFOTJtmtW" version="14.8.1" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="2222" dy="1174" grid="0" gridSize="6" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2674" dy="1208" grid="0" gridSize="6" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -372,6 +372,9 @@
             <mxPoint x="-77" y="-147" as="sourcePoint" />
             <mxPoint x="-77" y="79" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="V9EEnsXlejISFpjxKuE7-32" value="Thiết kế phân quyền, tổ chức phòng ban&amp;nbsp;" style="html=1;fontColor=#FF3333;fontStyle=1;align=left;verticalAlign=top;spacing=0;labelBorderColor=none;fillColor=none;dashed=1;strokeWidth=2;strokeColor=#FF3333;spacingLeft=4;spacingTop=-3;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-344" y="-241" width="1184" height="614" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
