@@ -1,9 +1,12 @@
-<mxfile host="app.diagrams.net" modified="2021-06-28T17:32:28.544Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="tMV_kQStFzi5sVPIFXjf" version="14.8.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-28T17:33:11.348Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="BKx1yND_fh7D2RX78lne" version="14.8.1" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="3477" dy="1554" grid="0" gridSize="6" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
+    <mxGraphModel dx="3005" dy="1351" grid="0" gridSize="6" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="V9EEnsXlejISFpjxKuE7-32" value="Thiết kế phân quyền, tổ chức phòng ban&amp;nbsp;" style="html=1;fontColor=#FF3333;fontStyle=1;align=left;verticalAlign=top;spacing=0;labelBorderColor=none;fillColor=none;dashed=1;strokeWidth=2;strokeColor=#FF3333;spacingLeft=4;spacingTop=-3;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="-354" y="-249" width="1184" height="614" as="geometry" />
+        </mxCell>
         <mxCell id="ShlViOrkOJXEZWjmj-9u-13" value="tbl_department" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="-263" y="214" width="180" height="130" as="geometry" />
         </mxCell>
@@ -166,7 +169,7 @@
         <mxCell id="ShlViOrkOJXEZWjmj-9u-113" value="permission" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" parent="ShlViOrkOJXEZWjmj-9u-111" vertex="1">
           <mxGeometry x="30" width="150" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ShlViOrkOJXEZWjmj-9u-128" value="tbl_user_role_tenant" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="ShlViOrkOJXEZWjmj-9u-128" value="tbl_user_role" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="44" y="82" width="180" height="100" as="geometry" />
         </mxCell>
         <mxCell id="ShlViOrkOJXEZWjmj-9u-132" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="ShlViOrkOJXEZWjmj-9u-128" vertex="1">
@@ -187,7 +190,7 @@
         <mxCell id="ShlViOrkOJXEZWjmj-9u-153" value="role_id" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" parent="ShlViOrkOJXEZWjmj-9u-151" vertex="1">
           <mxGeometry x="30" width="150" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ShlViOrkOJXEZWjmj-9u-135" value="tbl_role_tenant" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="ShlViOrkOJXEZWjmj-9u-135" value="tbl_role" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="316" y="82" width="180" height="100" as="geometry" />
         </mxCell>
         <mxCell id="ShlViOrkOJXEZWjmj-9u-136" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=1;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="ShlViOrkOJXEZWjmj-9u-135" vertex="1">
@@ -372,9 +375,6 @@
             <mxPoint x="-77" y="-147" as="sourcePoint" />
             <mxPoint x="-77" y="79" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="V9EEnsXlejISFpjxKuE7-32" value="Thiết kế phân quyền, tổ chức phòng ban&amp;nbsp;" style="html=1;fontColor=#FF3333;fontStyle=1;align=left;verticalAlign=top;spacing=0;labelBorderColor=none;fillColor=none;dashed=1;strokeWidth=2;strokeColor=#FF3333;spacingLeft=4;spacingTop=-3;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="-344" y="-241" width="1184" height="614" as="geometry" />
         </mxCell>
         <mxCell id="wbnQjl5JVT3otf-hm4VN-0" value="Tạm thời bỏ, không dùng đến" style="html=1;fontColor=#FF3333;fontStyle=1;align=left;verticalAlign=top;spacing=0;labelBorderColor=none;dashed=1;strokeWidth=2;spacingLeft=4;spacingTop=-3;strokeColor=#99FFCC;labelBackgroundColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="15" y="-216" width="799" height="220" as="geometry" />
